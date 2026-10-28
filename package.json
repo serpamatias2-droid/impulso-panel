@@ -1,0 +1,13 @@
+{
+  "name": "impulso-panel",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Panel de administración de Impulso Creativo",
+  "scripts": {
+    "test": "node --test \"pruebas/**/*.test.mjs\""
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.3.16"
+  }
+}
