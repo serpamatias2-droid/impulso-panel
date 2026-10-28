@@ -10,7 +10,7 @@ Autorizada por Mati: solo esta sesión; después se frena hasta que él repase.
 - [x] Carpeta y repo local
 - [x] Esquema base (`db/migraciones/0001_base.sql`)
 - [x] Pruebas de las tres decisiones con PGlite, en verde (`npm test`: 13 de 13)
-- [x] Commit local. [ ] Push: BLOQUEADO, gh sin sesión en la Acer; Mati corre `gh auth login` y después `gh repo create impulsocreativo-ba/impulso-panel --private --source . --push`
+- [x] Commit local. [ ] Push: BLOQUEADO. `gh` sin sesión en la Acer; Mati creó el repo desde Chrome pero `git push -u origin main` responde «Repository not found» (o el repo quedó con otro dueño u otro nombre, o Git en la Acer usa una cuenta sin acceso a la organización). Falta: la URL exacta del repo y que la cuenta con la que Git sube sea miembro de `impulsocreativo-ba`. Después, `git push -u origin main` (el remoto ya está configurado).
 - [x] Sección de decisiones en el Doc y PDF 8 en `H:\Mi unidad\Desarrollo\Impulso` (actualizado)
 
 ### Lo que sigue (sesión 2 en adelante, no empezar sin OK de Mati)
