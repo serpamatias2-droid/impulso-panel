@@ -2,7 +2,7 @@
 
 ## Etapa 1 · El libro en el celular (6 sesiones estimadas, tope 8)
 
-### Sesión 1 (28/10/2026) — EN CURSO
+### Sesión 1 (28/10/2026) — SESION 1 CERRADA (falta solo el push)
 
 Autorizada por Mati: solo esta sesión; después se frena hasta que él repase.
 
@@ -10,7 +10,7 @@ Autorizada por Mati: solo esta sesión; después se frena hasta que él repase.
 - [x] Carpeta y repo local
 - [x] Esquema base (`db/migraciones/0001_base.sql`)
 - [x] Pruebas de las tres decisiones con PGlite, en verde (`npm test`: 13 de 13)
-- [ ] Commit y push a `impulsocreativo-ba/impulso-panel` (privado)
+- [x] Commit local. [ ] Push: BLOQUEADO, gh sin sesión en la Acer; Mati corre `gh auth login` y después `gh repo create impulsocreativo-ba/impulso-panel --private --source . --push`
 - [ ] Sección de decisiones en el Doc y PDF 8 en `H:\Mi unidad\Desarrollo\Impulso`
 
 ### Lo que sigue (sesión 2 en adelante, no empezar sin OK de Mati)
