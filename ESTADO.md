@@ -2,7 +2,7 @@
 
 ## Etapa 1 · El libro en el celular (6 sesiones estimadas, tope 8)
 
-### Sesión 1 (28/10/2026) — SESION 1 CERRADA (falta solo el push)
+### Sesión 1 (28/10/2026) — SESION 1 CERRADA
 
 Autorizada por Mati: solo esta sesión; después se frena hasta que él repase.
 
@@ -10,7 +10,7 @@ Autorizada por Mati: solo esta sesión; después se frena hasta que él repase.
 - [x] Carpeta y repo local
 - [x] Esquema base (`db/migraciones/0001_base.sql`)
 - [x] Pruebas de las tres decisiones con PGlite, en verde (`npm test`: 13 de 13)
-- [x] Commit local. [ ] Push: BLOQUEADO. `gh` sin sesión en la Acer; Mati creó el repo desde Chrome pero `git push -u origin main` responde «Repository not found» (o el repo quedó con otro dueño u otro nombre, o Git en la Acer usa una cuenta sin acceso a la organización). Falta: la URL exacta del repo y que la cuenta con la que Git sube sea miembro de `impulsocreativo-ba`. Después, `git push -u origin main` (el remoto ya está configurado).
+- [x] Commit local. [x] Push a `serpamatias2-droid/impulso-panel` (cuenta personal, no la organización). Pendiente: transferirlo a `impulsocreativo-ba` (Settings → Transfer ownership) y después `git remote set-url origin https://github.com/impulsocreativo-ba/impulso-panel.git`.
 - [x] Sección de decisiones en el Doc y PDF 8 en `H:\Mi unidad\Desarrollo\Impulso` (actualizado)
 
 ### Lo que sigue (sesión 2 en adelante, no empezar sin OK de Mati)
