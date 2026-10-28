@@ -11,7 +11,7 @@ Autorizada por Mati: solo esta sesión; después se frena hasta que él repase.
 - [x] Esquema base (`db/migraciones/0001_base.sql`)
 - [x] Pruebas de las tres decisiones con PGlite, en verde (`npm test`: 13 de 13)
 - [x] Commit local. [ ] Push: BLOQUEADO, gh sin sesión en la Acer; Mati corre `gh auth login` y después `gh repo create impulsocreativo-ba/impulso-panel --private --source . --push`
-- [ ] Sección de decisiones en el Doc y PDF 8 en `H:\Mi unidad\Desarrollo\Impulso`
+- [x] Sección de decisiones en el Doc y PDF 8 en `H:\Mi unidad\Desarrollo\Impulso` (actualizado)
 
 ### Lo que sigue (sesión 2 en adelante, no empezar sin OK de Mati)
 
